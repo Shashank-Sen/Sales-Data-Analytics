@@ -65,7 +65,7 @@ _(...and more in the notebook)_
 
 ## 📈 Sample Visualizations
 
-![Logo](https://github.com/Shashank-Sen/Sales-Data-Analytics/tree/main/Sales_Trend%20images)
+![Logo](https://github.com/Shashank-Sen/Sales-Data-Analytics/blob/main/Sales_Trend%20images/Screenshot%202026-06-15%20115657.png)
 ---
 ![Logo](https://github.com/Shashank-Sen/Sales-Data-Analytics/blob/main/Sales_Trend%20images/sale%20by%20region.png)  
 ---
