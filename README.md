@@ -65,14 +65,14 @@ _(...and more in the notebook)_
 
 ## 📈 Sample Visualizations
 
-![Sales Trends](Sales_Trend images/Screenshot 2026-06-15 115657.png)  
-*Line plot showing monthly sales trends.*
+[![Logo](Sales_Trend images/Screenshot 2026-06-15 115657.png)](https://github.com/Shashank-Sen/Sales-Data-Analytics/blob/main/Sales_Trend%20images/Screenshot%202026-06-15%20115657.png)  
+*Showing monthly sales trends.*
 
-![Region-wise Sales](Sales_Trend images/sale by region.png)  
+[![Logo](Sales_Trend images/sale by region.png)](https://github.com/Shashank-Sen/Sales-Data-Analytics/blob/main/Sales_Trend%20images/sale%20by%20region.png)  
 *Bar chart showing regional performance.*
 
-![Sales forecasting](Sales_Trend images/Sales forecasting.png)  
-*Category-wise sales using treemap.*
+![Logo]([Sales_Trend images/Sales forecasting.png](https://github.com/Shashank-Sen/Sales-Data-Analytics/blob/main/Sales_Trend%20images/Sales%20forecasting.png))    
+*Sales Forecasting.*
 
 ---
 
