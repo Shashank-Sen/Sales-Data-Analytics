@@ -65,13 +65,13 @@ _(...and more in the notebook)_
 
 ## 📈 Sample Visualizations
 
-![Sales Trends](images/sales_trend.png)  
+![Sales Trends](Sales_Trend images/Screenshot 2026-06-15 115657.png)  
 *Line plot showing monthly sales trends.*
 
-![Region-wise Sales](images/region_sales.png)  
+![Region-wise Sales](Sales_Trend images/sale by region.png)  
 *Bar chart showing regional performance.*
 
-![Treemap of Categories](images/treemap.png)  
+![Sales forecasting](Sales_Trend images/Sales forecasting.png)  
 *Category-wise sales using treemap.*
 
 ---
